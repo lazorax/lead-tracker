@@ -1,4 +1,4 @@
-How to set up?
+<h1>How to set up?</h1>
 Install the repo by clicking on code & downloading the zip file
 Unzip the folder & save it in a place where it is accessible
 Open up your browser
